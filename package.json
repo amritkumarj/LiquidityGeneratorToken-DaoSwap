@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "ethereum-waffle": "^3.4.0",
+    "hardhat": "^2.8.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "chai": "^4.3.6"
+  }
+}
